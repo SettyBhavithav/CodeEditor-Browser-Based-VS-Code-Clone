@@ -6,3 +6,5 @@
 // File creation deletion and renaming features added to file tree
 
 // Handled code execution timeout errors to prevent server resource exhaustion
+
+// Fixed cursor position jump bug when receiving remote socket edit events
