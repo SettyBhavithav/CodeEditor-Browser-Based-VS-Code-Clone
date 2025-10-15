@@ -8,3 +8,5 @@
 # Added code auto-formatting feature triggered by Shift+Alt+F key combination
 
 # Updated package.json dependencies with Monaco React and Socket.IO client
+
+# Applied CSS flexbox layout for responsive editor and terminal split panels
