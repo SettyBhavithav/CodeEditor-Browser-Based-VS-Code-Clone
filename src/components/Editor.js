@@ -8,3 +8,5 @@
 // Integrated Socket.IO for real-time collaborative code editing
 
 // Saved editor configuration preferences to browser LocalStorage
+
+// Added detailed docstrings for Flask API execution endpoint handlers
