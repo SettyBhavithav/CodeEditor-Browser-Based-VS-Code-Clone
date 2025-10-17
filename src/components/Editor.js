@@ -12,3 +12,5 @@
 // Added detailed docstrings for Flask API execution endpoint handlers
 
 // Created unit tests for backend code execution sandbox runner
+
+// Adjusted editor font size and line height settings in user options
