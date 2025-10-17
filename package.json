@@ -10,3 +10,5 @@
 // Fixed cursor position jump bug when receiving remote socket edit events
 
 // Calibrated code execution timeout limit to 10 seconds per run
+
+// Added user authentication middleware using JWT token validation
