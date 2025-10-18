@@ -12,3 +12,5 @@
 // Calibrated code execution timeout limit to 10 seconds per run
 
 // Added user authentication middleware using JWT token validation
+
+// Updated Express proxy server to route WebSocket traffic seamlessly
