@@ -14,3 +14,5 @@
 # Removed temporary test files from workspace directory
 
 # Added dark and light theme toggle button in top navigation bar
+
+# Tested multi-tab editor switching with unsaved changes warnings
