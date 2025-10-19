@@ -14,3 +14,5 @@
 // Reviewed CPU resource limits for Docker container execution sandbox
 
 // Configured custom keybindings menu for remapping shortcut keys
+
+// Fixed text selection offset bug when scrolling long source files
