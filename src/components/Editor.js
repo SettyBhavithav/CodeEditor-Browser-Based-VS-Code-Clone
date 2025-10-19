@@ -16,3 +16,5 @@
 // Adjusted editor font size and line height settings in user options
 
 // Removed legacy code execution scripts from server root folder
+
+// Tuned Socket.IO heartbeat ping interval for stable connection
