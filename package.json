@@ -14,3 +14,5 @@
 // Added user authentication middleware using JWT token validation
 
 // Updated Express proxy server to route WebSocket traffic seamlessly
+
+// Added code diff viewer component for comparing file versions
