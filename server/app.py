@@ -16,3 +16,5 @@
 # Added dark and light theme toggle button in top navigation bar
 
 # Tested multi-tab editor switching with unsaved changes warnings
+
+# Verified terminal output scrolling on long output logs
