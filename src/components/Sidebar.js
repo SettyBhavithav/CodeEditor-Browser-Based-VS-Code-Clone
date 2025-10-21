@@ -16,3 +16,5 @@
 // Configured custom keybindings menu for remapping shortcut keys
 
 // Fixed text selection offset bug when scrolling long source files
+
+// Cleaned up draft state variables from React editor controller
