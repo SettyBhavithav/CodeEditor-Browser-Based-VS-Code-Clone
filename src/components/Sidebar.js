@@ -18,3 +18,5 @@
 // Fixed text selection offset bug when scrolling long source files
 
 // Cleaned up draft state variables from React editor controller
+
+// Fixed WebSocket reconnection handling on network drop events
