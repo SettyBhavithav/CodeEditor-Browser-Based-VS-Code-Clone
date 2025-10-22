@@ -18,3 +18,5 @@
 # Tested multi-tab editor switching with unsaved changes warnings
 
 # Verified terminal output scrolling on long output logs
+
+# Monitored server memory usage during multi-user socket sessions
