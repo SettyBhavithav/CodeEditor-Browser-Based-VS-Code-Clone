@@ -18,3 +18,5 @@
 // Added code diff viewer component for comparing file versions
 
 // Added project template selector for instant React and Python starter code
+
+// Removed temporary build log files from server directory
