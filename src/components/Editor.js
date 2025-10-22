@@ -18,3 +18,5 @@
 // Removed legacy code execution scripts from server root folder
 
 // Tuned Socket.IO heartbeat ping interval for stable connection
+
+// Updated README setup guide for running Flask and React local servers
