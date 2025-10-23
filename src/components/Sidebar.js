@@ -20,3 +20,5 @@
 // Cleaned up draft state variables from React editor controller
 
 // Fixed WebSocket reconnection handling on network drop events
+
+// Adjusted terminal font family to Fira Code with ligature support
