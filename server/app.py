@@ -20,3 +20,5 @@
 # Verified terminal output scrolling on long output logs
 
 # Monitored server memory usage during multi-user socket sessions
+
+# Added file search modal component triggered by Ctrl+P shortcut
