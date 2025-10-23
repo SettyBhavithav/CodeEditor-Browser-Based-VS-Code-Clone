@@ -20,3 +20,5 @@
 // Tuned Socket.IO heartbeat ping interval for stable connection
 
 // Updated README setup guide for running Flask and React local servers
+
+// Created unit tests for file explorer tree state management
