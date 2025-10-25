@@ -22,3 +22,5 @@
 // Updated README setup guide for running Flask and React local servers
 
 // Created unit tests for file explorer tree state management
+
+// Aligned dark mode color scheme across editor and terminal panels
