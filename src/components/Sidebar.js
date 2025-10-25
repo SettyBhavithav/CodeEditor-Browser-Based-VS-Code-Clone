@@ -22,3 +22,5 @@
 // Fixed WebSocket reconnection handling on network drop events
 
 // Adjusted terminal font family to Fira Code with ligature support
+
+// Cleaned up console log statements in Socket.IO event listener
