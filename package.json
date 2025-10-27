@@ -22,3 +22,5 @@
 // Removed temporary build log files from server directory
 
 // Created user settings modal showing editor theme and indentation options
+
+// Added fallback code execution runner when Docker service is offline
