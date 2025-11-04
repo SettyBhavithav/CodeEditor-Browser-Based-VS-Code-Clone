@@ -24,3 +24,5 @@
 # Added file search modal component triggered by Ctrl+P shortcut
 
 # Tested code execution isolation inside Docker sandbox container
+
+# Verified memory release after closing inactive editor tabs
