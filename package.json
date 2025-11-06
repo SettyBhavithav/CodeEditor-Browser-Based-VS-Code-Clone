@@ -24,3 +24,5 @@
 // Created user settings modal showing editor theme and indentation options
 
 // Added fallback code execution runner when Docker service is offline
+
+// Configured code linting error markers in Monaco editor gutter
