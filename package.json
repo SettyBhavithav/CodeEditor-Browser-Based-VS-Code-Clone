@@ -28,3 +28,5 @@
 // Configured code linting error markers in Monaco editor gutter
 
 // Fixed rare text decoding bug when running code with unicode characters
+
+// Monaco editor instance integrated into React frontend container
