@@ -34,3 +34,5 @@
 // Added tabbed editor bar supporting multiple open file tabs
 
 // Rendered integrated terminal component displaying real-time code output
+
+// File creation deletion and renaming features added to file tree
