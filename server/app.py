@@ -34,3 +34,5 @@
 # Flask backend API server configured for executing code snippets
 
 # Added syntax highlighting support for Python JavaScript HTML and C++
+
+# Integrated Socket.IO for real-time collaborative code editing
