@@ -36,3 +36,5 @@
 // Created dark theme color palette matching VS Code Dark+ aesthetics
 
 // Cursor position indicators rendered for concurrent active users
+
+// Created Docker container file for isolated code execution environment
