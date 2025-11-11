@@ -36,3 +36,5 @@
 // Rendered integrated terminal component displaying real-time code output
 
 // File creation deletion and renaming features added to file tree
+
+// Handled code execution timeout errors to prevent server resource exhaustion
