@@ -93,3 +93,10 @@ This project includes a **Dockerfile** for seamless deployment on Render.
 - **Limits**: Maximum code size: **5,000 characters**.
 - **Timeouts**: Execution is limited to **5 seconds** to prevent infinite loops.
 - **Multi-Language**: Backend supports Python and Node.js.
+
+
+## 🔒 License & Copyright
+
+**Copyright © 2026 Setty Bhavithav. All Rights Reserved.**
+
+This project and all associated source code, media assets, and documentation are proprietary. Unauthorized copying, modification, distribution, or reproduction of any part of this repository, via any medium, is strictly prohibited without explicit written consent from the copyright owner **Setty Bhavithav**.
