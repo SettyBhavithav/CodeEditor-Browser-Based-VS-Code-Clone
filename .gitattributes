@@ -1,0 +1,3 @@
+# Configure GitHub Linguist to ignore static HTML templates
+*.html linguist-vendored=true
+templates/*.html linguist-vendored=true
